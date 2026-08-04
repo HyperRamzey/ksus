@@ -1,0 +1,6 @@
+node_modules/
+dist/
+*.local
+old/
+screenshot.jpg
+site.7z

@@ -1,0 +1,21 @@
+# robots.txt for xlam HUB — https://hyperramzey.github.io/ksus/
+User-agent: *
+Allow: /
+
+# Explicitly welcome major search + social crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+Sitemap: https://hyperramzey.github.io/ksus/sitemap.xml
